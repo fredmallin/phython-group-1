@@ -1,9 +1,9 @@
-# phython-group-1
+# python-group-1
 
 # AUTHORS
-Martin
-Ernest
-Fredick
+1.Martin
+2.Ernest
+3.Fredick
 
  # Question 1 (Greetings)
  Description:
